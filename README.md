@@ -14,9 +14,9 @@ Aspiring Software Developer!
 👨🏻‍💻   Experienced in developing APIs, managing databases, and building dashboards.
 
 🛠  Tech Stack
-💻   C++ Python PHP
+💻   C++ Python PHP 
 
-🌐   HTML5 CSS Bootstrap Laravel
+🌐   HTML5 CSS Bootstrap Laravel React
 
 🛢   MySQL DBMS
 
