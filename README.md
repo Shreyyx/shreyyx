@@ -28,7 +28,9 @@ Aspiring Software Developer!
 🚀  Projects
 
 Sign Language Recognition System
+
 Society Management Portal
+
 Society Club
 
 📈 Achievements
