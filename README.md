@@ -9,6 +9,8 @@ Aspiring Software Developer | AI & ML
 
 I am an enthusiastic software developer passionate about Artificial Intelligence and Web Development, always eager to solve real-world problems through technology.
 
+<hr>
+
 <h3>🎓 Education</h3>
 
 Pursuing a Bachelor of Technology in Computer Science (AI & ML) at Acropolis Institute of Technology and Research, Indore (2021-2025).
