@@ -17,12 +17,16 @@ Pursuing a Bachelor of Technology in Computer Science (AI & ML) at Acropolis Ins
 
 Current CGPA: 8.3/10.
 
+<hr>
+
 <h3>💡 Passion for Technology</h3>
 
 I thrive on problem-solving and enjoy tackling challenges in Artificial Intelligence, Web Development, and API Integration.
 
 
 Hands-on experience with full-stack development, building dashboards, and managing databases.
+
+<hr>
 
 
 🤖 Always exploring cutting-edge technologies to bring impactful ideas to life!
