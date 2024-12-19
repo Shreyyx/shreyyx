@@ -1,21 +1,21 @@
 
 
 
-Hey there👋! I'm Shreya Singh
+**Hey there👋! I'm Shreya Singh**
 
 Aspiring Software Developer | AI & ML 
 
-👨🏻‍💻 About Me
+**👨🏻‍💻 About Me**
 
 I am an enthusiastic software developer passionate about Artificial Intelligence and Web Development, always eager to solve real-world problems through technology.
 
-🎓 Education
+**🎓 Education**
 
 Pursuing a Bachelor of Technology in Computer Science (AI & ML) at Acropolis Institute of Technology and Research, Indore (2021-2025).
 
 Current CGPA: 8.3/10.
 
-💡 Passion for Technology
+**💡 Passion for Technology**
 
 I thrive on problem-solving and enjoy tackling challenges in Artificial Intelligence, Web Development, and API Integration.
 
@@ -26,40 +26,40 @@ Hands-on experience with full-stack development, building dashboards, and managi
 🤖 Always exploring cutting-edge technologies to bring impactful ideas to life!
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
-
-💻 Programming Languages:
+**
+💻 Programming Languages:**
 
 C++, Python, PHP
 
 
-🌐 Frontend:
+**🌐 Frontend:**
 
 HTML5, CSS, Bootstrap
 
-
+**
 🛢 Backend & Databases:
-
+**
 Laravel, MySQL, DBMS
 
 
-⚙️ Tools & Platforms:
+**⚙️ Tools & Platforms:**
 
 Git, GitHub, AWS
 
 
-🚀 Projects
+**🚀 Projects**
 
 
-Sign Language Recognition System
+**Sign Language Recognition System**
 
 A real-time AI-powered system that uses computer vision to translate sign language gestures into text.
 
 Built using Python, OpenCV, and Mediapipe.
 
-
-Society Management Portal
+**
+Society Management Portal**
 
 A comprehensive platform offering multi-role dashboards for residents, facility partners, and admins.
 
@@ -68,20 +68,20 @@ Streamlined society operations with features for member registration, issue trac
 Developed with Laravel, MySQL,PHP, Bootstrap, and DBMS.
 
 
-📈 Achievements
+**📈 Achievements**
 
 
-🏆 Dark Pattern Buster Hackathon (DPBH-2023)
+**🏆 Dark Pattern Buster Hackathon (DPBH-2023)**
 
 Qualified for the final round by developing a Chrome extension to detect and mitigate dark patterns in e-commerce platforms.
 
 
-🌟 HackerRank Proficiency
+**🌟 HackerRank Proficiency**
 
 Earned 5-star gold badges in C++, showcasing strong problem-solving skills and algorithmic expertise.
 
 
-🎓 Certifications
+**🎓 Certifications**
 
 Cisco Networking Academy: Cybersecurity Essentials
 
@@ -90,7 +90,7 @@ AWS Academy Graduate: Cloud Foundations & Cloud Architecting
 HackerRank: Problem Solving and C++
 
 
-💡 Interests
+**💡 Interests**
 
 Artificial Intelligence
 
@@ -99,14 +99,14 @@ API Development
 Full-Stack Development
 
 
-🎮 Hobbies
-
+**🎮 Hobbies
+**
 Playing Badminton
 
 Public Speaking & Oration
 
 
-📫 Contact Me
+**📫 Contact Me**
 
 📧 Email: shreya.xa02@gmail.com
 
