@@ -58,14 +58,14 @@ Git, GitHub, AWS
 <h3>🚀 Projects</h3>
 
 
-<b>Sign Language Recognition System</b>
+<b> 1. Sign Language Recognition System</b>
 
 A real-time AI-powered system that uses computer vision to translate sign language gestures into text.
 
 Built using Python, OpenCV, and Mediapipe.
 
 
-<b>Society Management Portal</b>
+<b> 2. Society Management Portal</b>
 
 A comprehensive platform offering multi-role dashboards for residents, facility partners, and admins.
 
