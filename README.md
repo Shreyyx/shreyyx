@@ -28,8 +28,8 @@ Hands-on experience with full-stack development, building dashboards, and managi
 
 **🛠 Tech Stack**
 
-**
-💻 Programming Languages:**
+
+**💻 Programming Languages:**
 
 C++, Python, PHP
 
@@ -38,9 +38,9 @@ C++, Python, PHP
 
 HTML5, CSS, Bootstrap
 
-**
-🛢 Backend & Databases:
-**
+
+**🛢 Backend & Databases:**
+
 Laravel, MySQL, DBMS
 
 
@@ -58,8 +58,8 @@ A real-time AI-powered system that uses computer vision to translate sign langua
 
 Built using Python, OpenCV, and Mediapipe.
 
-**
-Society Management Portal**
+
+**Society Management Portal**
 
 A comprehensive platform offering multi-role dashboards for residents, facility partners, and admins.
 
@@ -99,8 +99,8 @@ API Development
 Full-Stack Development
 
 
-**🎮 Hobbies
-**
+**🎮 Hobbies**
+
 Playing Badminton
 
 Public Speaking & Oration
