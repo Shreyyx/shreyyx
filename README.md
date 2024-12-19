@@ -1,7 +1,7 @@
 
 
 
-<h1>**Hey there👋! I'm Shreya Singh**</h1>h1>
+<h1>Hey there👋! I'm Shreya Singh</h1>
 
 Aspiring Software Developer | AI & ML 
 
