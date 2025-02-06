@@ -15,7 +15,7 @@ I am an enthusiastic software developer passionate about Artificial Intelligence
 
 Pursuing a Bachelor of Technology in Computer Science (AI & ML) at Acropolis Institute of Technology and Research, Indore (2021-2025).
 
-Current CGPA: 8.3/10.
+Current CGPA: 8.44/10.
 
 <hr>
 
@@ -31,29 +31,21 @@ Hands-on experience with full-stack development, building dashboards, and managi
 
 🤖 Always exploring cutting-edge technologies to bring impactful ideas to life!
 
+## 🛠 Tech Stack  
 
-<h3>🛠 Tech Stack</h3>
+### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-<h4>💻 Programming Languages:</h4>
+### 🛢 Backend & Databases  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-C++, Python, PHP
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-
-<h4>🌐 Frontend:</h4>
-
-HTML5, CSS, Bootstrap
-
-
-<h4>🛢 Backend & Databases:</h4>
-
-Laravel, MySQL, DBMS
-
-
-<h4>⚙️ Tools & Platforms:</h4>
-
-Git, GitHub, AWS
-
+---
 
 <h3>🚀 Projects</h3>
 
